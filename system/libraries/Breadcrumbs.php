@@ -1,14 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
 * Breadcrumbs Class
-*
-* This class manages the breadcrumb object
-*
-* @package Breadcrumb
-* @version 1.0
-* @author Buti <buti@nobuti.com>
-* @copyright Copyright (c) 2012, Buti
-* @link https://github.com/nobuti/codeigniter-breadcrumb
 */
 class Breadcrumbs {
 /**
